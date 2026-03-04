@@ -584,3 +584,7 @@ h3 {
   border-radius: 4px;
   resize: none;
 }
+
+.policy-text {
+  text-decoration: underline;
+}
